@@ -1,1 +1,1 @@
-# DataExploratoryAnalysis
+# ExploratoryDataAnalysis
